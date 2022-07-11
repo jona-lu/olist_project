@@ -8,7 +8,7 @@ Marketing Funnel by Olist (https://www.kaggle.com/olistbr/marketing-funnel-olist
 
 **Goals: **
 
-Data cleansing
-Analyze sales data, customer review and the logistic
-Customer segmentations
-Sales Prediction
+1.Data cleansing
+2.Analyze sales data, customer review and the logistic
+3.Customer segmentations
+4.Sales Prediction
